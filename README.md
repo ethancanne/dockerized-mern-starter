@@ -1,8 +1,7 @@
-# Social Media Application
+# Dockerized Mern Starter Environment
 
 ---
 
-Run `make build` from root to build containers
-Run `make run` from root to run containers with docker-compose
+Run `docker-compose up` from root to build containers and start application
 
 ---
